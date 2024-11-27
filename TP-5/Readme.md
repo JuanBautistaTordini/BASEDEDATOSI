@@ -3,8 +3,6 @@
 **Esquema de Base de Datos:**  
 `TALLER <codigoSucursal, domicilioSucursal, telefonoSucursal, codigoFosa, largoFosa, anchoFosa, patenteAuto, marcaAuto, modeloAuto, dniCliente, nombreCliente, celularCliente, dniMecanico, nombreMecanico, emailMecanico>`
 
----
-
 ### **Restricciones:**
 
 1. **Sobre las sucursales:**  
